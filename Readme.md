@@ -1,10 +1,12 @@
 #Free Trees
 
-**Requirements** 
-*[ahk](https://www.autohotkey.com/)
-*[firefox](https://www.mozilla.org/de/firefox/browsers/)
-*[ecosia](https://www.ecosia.org/)
+**Requirements** <br/>
+[ahk](https://www.autohotkey.com/)<br/>
+[firefox](https://www.mozilla.org/de/firefox/browsers/)<br/>
+[ecosia](https://www.ecosia.org/)<br/>
 
-**Usage** 
-*press a to start the script
-*press b to end the script 
+**Usage** <br/>
+press a to start the script<br/>
+
+press b to end the script <br/>
+
